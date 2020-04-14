@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/2020/04/14/covid_anxiety.html</loc>
+<lastmod>2020-04-14T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/2020/04/14/covid_coping.html</loc>
+<lastmod>2020-04-14T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/2020/04/14/lamp.html</loc>
+<lastmod>2020-04-14T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/contact.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/feedback.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/startbootstrap-clean-blog-jekyll/</loc>
+</url>
+</urlset>
